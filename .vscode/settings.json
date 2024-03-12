@@ -1,0 +1,19 @@
+{
+  "dart.flutterSdkPath": ".fvm/flutter_sdk",
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  // Remove from file watching
+  "files.watcherExclude": {
+    "**/.fvm": true,
+    "**/*.freezed.dart": true,
+    "**/*.g.dart": true,
+    "**/*.graphql.dart": true
+  },
+  "files.exclude": {
+    "**/*.freezed.dart": true,
+    "**/*.g.dart": true,
+    "**/*.graphql.dart": true
+  },
+  "window.zoomLevel": 0
+}
